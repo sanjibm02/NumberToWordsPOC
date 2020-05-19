@@ -1,0 +1,5 @@
+D:\POC\NumberToWordsPOC\NumberToWordsPOC\bin\Debug\NumberToWordsPOC.exe.config
+D:\POC\NumberToWordsPOC\NumberToWordsPOC\bin\Debug\NumberToWordsPOC.exe
+D:\POC\NumberToWordsPOC\NumberToWordsPOC\bin\Debug\NumberToWordsPOC.pdb
+D:\POC\NumberToWordsPOC\NumberToWordsPOC\obj\Debug\NumberToWordsPOC.exe
+D:\POC\NumberToWordsPOC\NumberToWordsPOC\obj\Debug\NumberToWordsPOC.pdb
